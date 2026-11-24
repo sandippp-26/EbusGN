@@ -1,0 +1,6 @@
+{
+  "name": "GANDHINAGAR BUS",
+  "description": "Public bus routes, stops, operators, and scheduled departure information portal for Gandhinagar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
